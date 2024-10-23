@@ -1,25 +1,22 @@
-To create your version of the `README.md` file under the name **dev-seun**, here’s an updated template based on the structure of the existing file you uploaded:
-
----
-
 <h1> Hi there 👋, I'm Oladele Seun (dev-seun)! </h1>
 
-[![Seun's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/your-stackoverflow-id)
+[![Seun's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)]([https://stackoverflow.com/users/your-stackoverflow-id](https://stackoverflow.com/users/13918492/seun-o)
 
 <h3 align="left">Connect with me:</h3>
 
-Experienced Backend Developer | React Native & AI Enthusiast | Lagos, Nigeria
+Experienced Backend Developer | Mobile Developer | Web & AI Enthusiast | Lagos, Nigeria
 
-I'm Seun, a passionate backend and mobile developer focusing on building scalable systems, AI-driven solutions, and sleek mobile applications. I specialize in Node.js, Python, and React Native, and I'm advancing my expertise in Artificial Intelligence.
+I'm Seun, a passionate backend and mobile developer focusing on building scalable systems, AI-driven solutions, and sleek mobile applications. I specialize in Node.js, Python, Flutter and React Native, React, and I'm advancing my expertise in Artificial Intelligence.
 
 ## 🔧 Skills
 
-- 🌱 *Languages:* Node.js, Python, JavaScript, Dart (Flutter)
-- 💻 *Backend Frameworks:* Express.js, Flask, GraphQL
+- 🌱 *Languages:* Java, Python, JavaScript, Dart (Flutter)
+- 💻 *Backend Frameworks:* Express.js, Nest.js, Django Rest, GraphQL
 - 📱 *Mobile:* React Native, Flutter
+- 📱 *FrontEnd:* React, Vite
 - 🤖 *AI & Machine Learning:* TensorFlow, OpenAI APIs
-- 🗄️ *Databases:* MySQL, MongoDB, PostgreSQL
-- 📚 *Currently Learning:* Advanced AI techniques and blockchain integration
+- 🗄️ *Databases:* MySQL, MongoDB, PostgreSQL, Firebase FireStore
+- 📚 *Currently Learning:* Advanced AI techniques
 
 ## 📚 Languages
 
@@ -47,14 +44,10 @@ I'm Seun, a passionate backend and mobile developer focusing on building scalabl
 ## 🤝 Let's connect
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
+<!--   <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>  -->
+  <a href="https://www.linkedin.com/in/dev-seun/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   </a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
+  <a href="mailto:oladsam16@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
 </p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-seun&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
-
----
-
-You can replace the placeholders (like your StackOverflow, Twitter, LinkedIn, and email) with your actual links. Let me know if you need further customization or help adding more details!
