@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**dev-seun/dev-seun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...aTo create your version of the `README.md` file under the name **dev-seun**, here’s an updated template based on the structure of the existing file you uploaded:
+To create your version of the `README.md` file under the name **dev-seun**, here’s an updated template based on the structure of the existing file you uploaded:
 
 ---
 
@@ -67,9 +58,3 @@ I'm Seun, a passionate backend and mobile developer focusing on building scalabl
 ---
 
 You can replace the placeholders (like your StackOverflow, Twitter, LinkedIn, and email) with your actual links. Let me know if you need further customization or help adding more details!
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
