@@ -48,6 +48,7 @@ I'm Seun, a passionate backend and mobile developer focusing on building scalabl
   <a href="https://www.linkedin.com/in/dev-seun/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25> </a>
   </a>
   <a href="mailto:oladsam16@gmail.com"><img src="https://img.shields.io/badge/gmail-%EA4225.svg?&style=for-the-badge&logo=gmail&logoColor=red" height=25></a>
+  <a href="https://www.youtube.com/@devseun"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=dev-seun&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
