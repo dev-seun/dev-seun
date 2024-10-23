@@ -1,6 +1,6 @@
 <h1> Hi there 👋, I'm Oladele Seun (dev-seun)! </h1>
 
-[![Seun's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)]([https://stackoverflow.com/users/your-stackoverflow-id](https://stackoverflow.com/users/13918492/seun-o)
+[![Seun's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13918492)
 
 <h3 align="left">Connect with me:</h3>
 
