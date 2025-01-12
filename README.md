@@ -10,13 +10,15 @@ I'm Seun, a passionate backend and mobile developer focusing on building scalabl
 
 ## 🔧 Skills
 
-- 🌱 *Languages:* Java, Python, JavaScript, Dart (Flutter) [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,dart,typescript&perline=5)](https://skillicons.dev)
+- 🌱 *Languages:* Java, Python, JavaScript, Dart (Flutter) 
 - 💻 *Backend Frameworks:* Express.js, Nest.js, Django Rest, GraphQL
 - 📱 *Mobile:* React Native, Flutter
 - 📱 *FrontEnd:* React, Vite
 - 🤖 *AI & Machine Learning:* TensorFlow, OpenAI APIs
 - 🗄️ *Databases:* MySQL, MongoDB, PostgreSQL, Firebase FireStore
 - 📚 *Currently Learning:* Advanced AI techniques
+  
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,dart,typescript,express,nest,django,graphql,flutter,postgres,mongodb,mysql,tensorflow&perline=6)](https://skillicons.dev)
 
 ## 📚 Languages
 
