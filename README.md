@@ -3,7 +3,7 @@
 [![Seun's StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/13918492)
 
 <h3 align="left">Connect with me:</h3>
-<h3 align="left"><a href="https://dev-seun.softonsolution.com">Portfolio</a></h3>
+<h3 align="left"><a target="_blanck" href="https://dev-seun.softonsolution.com">Portfolio</a></h3>
 
 Experienced Backend Developer | Mobile Developer | Web & AI Enthusiast | Lagos, Nigeria
 
